@@ -1,6 +1,6 @@
 <span style="font-size: 18px;"><b> A/B testing. </span></b>
 
-[ipynb](eng_ AB_test.ipynb)
+[ipynb](eng_AB_test.ipynb)
 
 ## Project description
 
