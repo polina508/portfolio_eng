@@ -1,6 +1,6 @@
 <span style="font-size: 20px;"><b> Создание механизма прогнозирования успешности компьютерных игр (по открытым данным). </span></b>
 
-[ipyb]()
+[ipyb](eng_comp_games_research.ipynb)
 
 ## Project description.
 Open-source data analysis for online shop specializing in the global distribution of computer games.
