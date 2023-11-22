@@ -1,5 +1,7 @@
 <span style="font-size: 18px;"><b> A/B testing. </span></b>
 
+[ipynb](eng_ AB_test.ipynb)
+
 ## Project description
 
 **Goal:** create recommendations for revenue growth in an internet shop based on results of A/B testing.
