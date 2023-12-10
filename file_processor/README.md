@@ -33,7 +33,7 @@ Example of source data:
 [2021_Таблица_101_Злокачественные_новообразования_в_РФ_(заболеваемость_и_смертность).xlsx](2021_Таблица_101_Злокачественные_новообразования_в_РФ_(заболеваемость_и_смертность).xlsx)
 
 Processed data:  
-[Oncology care status (treatment)](https://docs.google.com/spreadsheets/d/11ch2hH_jGhFBuNQslV2F_2b8GN374RS-c6bS2X7CnVs)
-[Oncology care status (population)](https://docs.google.com/spreadsheets/d/1P33EZT-CQqu1atFeqAsPWCy-Bp3rvw87iPRnJckTQcM)
-[Oncology care status (population) table 2](https://docs.google.com/spreadsheets/d/1KKfeebttMfPreGBm1Zzm0ag5fBHLdcM9fgZLos2HQUc)
+[Oncology care status (treatment)](https://docs.google.com/spreadsheets/d/11ch2hH_jGhFBuNQslV2F_2b8GN374RS-c6bS2X7CnVs)  
+[Oncology care status (population)](https://docs.google.com/spreadsheets/d/1P33EZT-CQqu1atFeqAsPWCy-Bp3rvw87iPRnJckTQcM)  
+[Oncology care status (population) table 2](https://docs.google.com/spreadsheets/d/1KKfeebttMfPreGBm1Zzm0ag5fBHLdcM9fgZLos2HQUc)  
 [Malignant neoplasms: incidence and mortality](https://docs.google.com/spreadsheets/d/1uj9oTNnAV_8FntB5Lsrw7Rskbdjc9uXepH0pVQzSR7M)
